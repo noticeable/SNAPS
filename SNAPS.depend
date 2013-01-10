@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1352923643 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encode.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"Encode.h"
+
+1162377000 c:\users\pumpkin pie\desktop\final fucking version\snaps\ejpgl.h
+
+1352919296 c:\users\pumpkin pie\desktop\final fucking version\snaps\encode.h
+
+1352919127 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\dct.c
+	"ejpgl.h"
+	"Encode.h"
+
+1352919140 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\huffman.c
+	"Encode.h"
+	"ejpgl.h"
+
+1352919149 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\jpeg.c
+	"ejpgl.h"
+	"Encode.h"
+
+1356104595 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Encoder/bmp2jpg.h"
+	"main.h"
+	"populatearray.h"
+	"sortimagearray.h"
+	"H264Decoder/parser.h"
+
+1352919157 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\zzq.c
+	"ejpgl.h"
+	"Encode.h"
+
+1352919106 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\colorconversion.c
+	"ejpgl.h"
+	"Encode.h"
+
+1352923643 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\encode.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"Encode.h"
+
+1353646708 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\ejpgl.h
+
+1352919296 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\encode.h
+
+1353647062 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\dct.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"dct.h"
+
+1353647113 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"huffman.h"
+
+1353951149 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\jpeg.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"../main.h"
+	"jpeg.h"
+
+1353647170 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\zzq.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"zzq.h"
+
+1353647054 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\colorconversion.c
+	"ejpgl.h"
+	"ColorConversion.h"
+
+1354512130 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\bmp2jpg.c
+	<stdio.h>
+	<stdlib.h>
+	"ejpgl.h"
+	"bmp2jpg.h"
+	"ColorConversion.h"
+	"dct.h"
+	"huffman.h"
+	"jpeg.h"
+	"zzq.h"
+
+1353646831 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\huffman.h
+
+1353951133 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\jpeg.h
+	"ejpgl.h"
+	"../main.h"
+
+1353352605 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\zzq.h
+	"ejpgl.h"
+
+1353952572 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\bmp2jpg.h
+	"ejpgl.h"
+	"../main.h"
+
+1353646796 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\dct.h
+
+1353352765 c:\users\pumpkin pie\desktop\final fucking version\snaps\encoder\colorconversion.h
+	"ejpgl.h"
+
+1353357071 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\convertmatrixtype.c
+
+1353357515 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\decoder.c
+
+1353357538 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\packets\packet.c
+
+1354732543 c:\users\pumpkin pie\desktop\final fucking version\snaps\main.h
+
+1354517763 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\filters\histogram.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"../main.h"
+
+1353981971 c:\users\pumpkin pie\desktop\final fucking version\snaps\populatearray.h
+	"main.h"
+
+1354517787 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\populatearray.c
+	<stdio.h>
+	"populatearray.h"
+	"main.h"
+
+1354577673 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\filters\circledetect.c
+	"../main.h"
+	<math.h>
+	"circledetect.h"
+
+1357770059 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\sortimagearray.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1354731466 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\filters\edgedetect.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"../main.h"
+
+1354520587 c:\users\pumpkin pie\desktop\final fucking version\snaps\filters\circledetect.h
+	"../main.h"
+
+1354576980 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\earthfind.c
+	"main.h"
+	"earthfind.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1354520574 c:\users\pumpkin pie\desktop\final fucking version\snaps\earthfind.h
+
+1354162510 c:\users\pumpkin pie\desktop\final fucking version\snaps\sortimagearray.h
+	"main.h"
+
+1354739199 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\parser.c
+	"../main.h"
+	<stdlib.h>
+	<stdio.h>
+	"bs.h"
+
+1354739080 c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\parser.h
+
+1354736659 c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\bs.h
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1354739140 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_analyze.c
+	"h264_stream.h"
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<getopt.h>
+
+1339134938 c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_stream.h
+	<stdint.h>
+	<stdio.h>
+	<assert.h>
+	"bs.h"
+	"h264_sei.h"
+
+1339134938 c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_sei.h
+	<stdint.h>
+	<stdint.h>
+	"bs.h"
+
+1354737825 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_avcc.c
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"h264_avcc.h"
+	"bs.h"
+	"h264_stream.h"
+
+1339134938 c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_avcc.h
+	<stdint.h>
+	<assert.h>
+	"bs.h"
+	"h264_stream.h"
+
+1339134938 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_sei.c
+	"bs.h"
+	"h264_stream.h"
+	"h264_sei.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1354737861 source:c:\users\pumpkin pie\desktop\final fucking version\snaps\h264decoder\h264_stream.c
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	"bs.h"
+	"h264_stream.h"
+	"h264_sei.h"
+

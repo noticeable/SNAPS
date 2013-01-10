@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SNAPS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\SNAPS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\SNAPS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Encoder\ColorConversion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\ColorConversion.h" />
+		<Unit filename="Encoder\bmp2jpg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\bmp2jpg.h" />
+		<Unit filename="Encoder\dct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\dct.h" />
+		<Unit filename="Encoder\ejpgl.h" />
+		<Unit filename="Encoder\huffman.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\huffman.h" />
+		<Unit filename="Encoder\jpeg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\jpeg.h" />
+		<Unit filename="Encoder\zzq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Encoder\zzq.h" />
+		<Unit filename="Filters\circledetect.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Filters\circledetect.h" />
+		<Unit filename="Filters\edgedetect.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Filters\edgedetect.h" />
+		<Unit filename="Filters\histogram.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Filters\histogram.h" />
+		<Unit filename="H264Decoder\bs.h" />
+		<Unit filename="H264Decoder\decoder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\decoder.h" />
+		<Unit filename="H264Decoder\h264_analyze.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\h264_avcc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\h264_avcc.h" />
+		<Unit filename="H264Decoder\h264_sei.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\h264_sei.h" />
+		<Unit filename="H264Decoder\h264_stream.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\h264_stream.h" />
+		<Unit filename="H264Decoder\parser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="H264Decoder\parser.h" />
+		<Unit filename="Packets\packet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Packets\packet.h" />
+		<Unit filename="earthfind.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="earthfind.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="populatearray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="populatearray.h" />
+		<Unit filename="sortimagearray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sortimagearray.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
