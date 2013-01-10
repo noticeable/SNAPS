@@ -1,0 +1,5 @@
+*.o
+bin/
+Debug/
+settings/
+obj/
